@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blogs/aliquam/</loc>
+    <loc>/blogs/outreach/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
   </url>
   
@@ -13,17 +13,17 @@
   </url>
   
   <url>
-    <loc>/blogs/tempus/</loc>
+    <loc>/blogs/sides/</loc>
     <lastmod>2017-10-31T22:26:13-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/blogs/magna/</loc>
+    <loc>/blogs/teaching/</loc>
     <lastmod>2017-10-31T22:26:09-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/blogs/ipsum/</loc>
+    <loc>/blogs/dissertation/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
@@ -69,14 +69,14 @@
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <loc>/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
