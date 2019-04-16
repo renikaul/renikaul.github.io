@@ -12,21 +12,21 @@
     
     
     <item>
+      <title>CV</title>
+      <link>/blogs/cv/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blogs/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Science for all</title>
       <link>/blogs/outreach/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
       <guid>/blogs/outreach/</guid>
       <description>Description of STEMzone and new events coming soon.</description>
-    </item>
-    
-    <item>
-      <title>Disease dynamics &amp; Machine learning</title>
-      <link>/blogs/sides/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
-      
-      <guid>/blogs/sides/</guid>
-      <description>Info on white nose syndrome in US bats, ebola in west Africa, and yellow fever in Brazil coming soon.</description>
     </item>
     
     <item>
@@ -45,6 +45,17 @@
       
       <guid>/blogs/dissertation/</guid>
       <description>Description coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Disease dynamics &amp; Machine learning</title>
+      <link>/blogs/sides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blogs/sides/</guid>
+      <description>I have a wide range of scientific interests, and enjoy collaborating with my Drake lab mates. This has led to many projects that involve some combination of disease dynamics, machine learning, and modeling. Here are a few highlights.
+Yellow fever in Brazil Kaul, R.B., M.V. Evans, C.C. Murdock &amp;amp; J.M. Drake. 2018. Spatio-temporal spillover risk of yellow fever in Brazil. Parasites and Vectors 11:448. [pdf] [data &amp;amp; code]
+Ebola in west Africa Drake, J.</description>
     </item>
     
   </channel>
