@@ -87,29 +87,75 @@
 
 <h2 id="yellow-fever-in-brazil">Yellow fever in Brazil</h2>
 
-<p><img src="/blogs/sides_files/YF_ST.gif" alt="" /> <br />
+<p>The spread of yellow fever into areas previously thought of as low risk presented an ecologically interesting question- what’s changed about the disease dynamics in the region, and an important question for human health- can we predict it areas of high and low risk for the disease. Michelle Evans and I started chatting about this problem, and decided this project required the combination of our unique skill sets.</p>
+
+<p>Human infections of yellow fever in Brazil are the outcome of a series of normally unlikely events since it is a vector borne disease. We assumed that each human infection is the culmination of:</p>
+
+<ol>
+<li>yellow fever outbreak in non-human primates</li>
+<li>a mosquito feeds on an infected non-human primate</li>
+<li>the mosquito becomes infectious</li>
+<li>the infectious mosquito feeds on a person susceptible to infection
+<br /></li>
+</ol>
+
+<p>While mechanistic models have been developed to capture these events, we decided a statistical, machine learning approach would maximize the model’s predictive accuracy given the available data, intended timeline and our strengths.</p>
+
+<p>We modified a machine learning method, bagged logistic regression, previously developed in the Drake lab based on our knowledge, and in some cases intuition of the disease system (see <a href="https://wwwnc.cdc.gov/eid/article/23/3/16-0101_article">Schmidt et al.,2017</a>  for the original bagged logistic regression method).  Data limited us from answering our initial question about the 2017 outbreak, but we did find some interesting things.</p>
+
+<p>First we noticed that the histogram of non-human primate species richness had a natural break which corresponded to a geographic break. Since non-human primates are such an integral component of the spillover process, we decided to build models for both regions (high and low non-haman primate richness) along with a national model.</p>
+
+<figure>
+  <img src='/blogs/sides_files/YF_ST.gif'>
+  <figcaption>Predicted spatial risk of yellow fever. Complete time
+series of predictions from 2001 to 2013. Black dots indicate a municipality reporting any YF
+cases </figcaption>
+</figure>
+
+<p></p>
+
+<p>From these models we were able to make a conclusions:</p>
+
+<ul>
+<li>Non-human primate richness was an important driver regardless of model.</li>
+<li>Mosquito vector presence was not an important driver in the Amazon region, and a weak driver in the other models.<br /></li>
+<li>Months that have abnormal temperatures or land use change rates are important for explaining spillover risk in the Amazon</li>
+<li>The regional model predicted strong seasonality in spillover risk in the Amazon, while the national model predicted a consistently high spillover risk.</li>
+</ul>
+
+<p>These finding are important because they can be used to shape the timing, type, and location of interventions used to prevent future spillover of yellow fever in Brazil.</p>
+
+<p><em>Read the full article at:</em>
 Kaul, R.B., M.V. Evans, C.C. Murdock &amp; J.M. Drake. 2018. Spatio-temporal spillover risk of yellow fever in Brazil. Parasites and Vectors 11:448. [<a href="https://parasitesandvectors.biomedcentral.com/track/pdf/10.1186/s13071-018-3063-6">pdf</a>]   [<a href="github.com/renikaul/YF_Brazil">data &amp; code</a>]</p>
 
 <hr />
 
 <h2 id="ebola-in-west-africa">Ebola in west Africa</h2>
 
-<p>Drake, J.M., R.B. Kaul, L.W. Alexander, S.M. O’Regan, A.M. Kramer, J.T. Pulliam, M.J. Ferrari, &amp; A.W. Park. 2015. Ebola cases and health system demand in Liberia. PLoS Biology 13:e1002056. [<a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002056">online</a>]    [<a href="https://datadryad.org/resource/doi:10.5061/dryad.17m5q">data &amp; code</a>]</p>
+<p>Story coming soon.</p>
+
+<p><img src="/blogs/sides_files/branching.TIF" alt="diagram model’s human-to-human transmission" /></p>
+
+<p><em>Read the full article at:</em>
+Drake, J.M., R.B. Kaul, L.W. Alexander, S.M. O’Regan, A.M. Kramer, J.T. Pulliam, M.J. Ferrari, &amp; A.W. Park. 2015. Ebola cases and health system demand in Liberia. PLoS Biology 13:e1002056. [<a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002056">online</a>]    [<a href="https://datadryad.org/resource/doi:10.5061/dryad.17m5q">data &amp; code</a>]</p>
 
 <hr />
 
 <h2 id="white-nose-syndrome-in-the-us">White nose syndrome in the US</h2>
 
-<p>O’Regan, S.M., K. Magori, J.T. Pulliam, M.A. Zokan, R.B. Kaul, H.D. Barton, &amp; J.M. Drake. 2015. Multi-scale model of epidemic fadeout: Will local extirpation events inhibit the spread of White-nose Syndrome? Ecological Applications 25:621-633. [<a href="http://www.esajournals.org/doi/abs/10.1890/14-0417.1">online</a>]</p>
+<p>Story coming soon.</p>
+
+<p><em>Read the full article at:</em>
+O’Regan, S.M., K. Magori, J.T. Pulliam, M.A. Zokan, R.B. Kaul, H.D. Barton, &amp; J.M. Drake. 2015. Multi-scale model of epidemic fadeout: Will local extirpation events inhibit the spread of White-nose Syndrome? Ecological Applications 25:621-633. [<a href="http://www.esajournals.org/doi/abs/10.1890/14-0417.1">online</a>]</p>
 
 <hr />
 
 <h3 id="other-side-projects">Other side projects</h3>
 
-<p><em>My first taste of blending theory and experiments</em> <br />
+<p><em>My first taste of blending theory and microbial mesocosm experiments</em> <br />
 Kaul, R.B., A.M. Kramer, F.C. Dobbs, &amp; J.M. Drake. 2016. Experimental demonstration of Allee effects in microbial populations. Biology Letters 12:20160070. [<a href="http://dx.doi.org/10.1098/rsbl.2016.0070">online</a>]    [<a href="http://datadryad.org/resource/doi:10.5061/dryad.q7qv2">data &amp; code</a>]</p>
 
-<p><em>Group effort to make Marcus Zokan&rsquo;s amazing dataset more accessible, and learn javascript.</em> <br />
+<p><em>Group effort to make Marcus Zokan&rsquo;s amazing dataset more accessible while learning javascript.</em> <br />
 <a href="http://zooplankton.ecology.uga.edu/">http://zooplankton.ecology.uga.edu/</a></p>
 
                         </div>
@@ -133,7 +179,7 @@ Kaul, R.B., A.M. Kramer, F.C. Dobbs, &amp; J.M. Drake. 2016. Experimental demons
                 
             </ul>
             <ul class="copyright">
-                <li>&copy; Company Name</li>
+                <li>&copy; </li>
                 
             </ul>
         </div>
