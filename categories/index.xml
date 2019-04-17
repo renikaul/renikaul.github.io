@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on RajReni  Kaul</title>
+    <title>RajReni  Kaul</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on RajReni  Kaul</description>
+    <description>Recent content on RajReni  Kaul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
@@ -12,25 +12,21 @@
     
     
     <item>
-      <title></title>
-      <link>/categories/</link>
+      <title>Science for all</title>
+      <link>/blogs/outreach/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>/categories/</guid>
-      <description></description>
+      <guid>/blogs/outreach/</guid>
+      <description>Description of STEMzone and new events coming soon.</description>
     </item>
     
     <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Science for all</title>
+      <link>/blogs/outreach/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>/categories/r/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss><description>Description of STEMzone and new events coming soon.</description>
+      <guid>/blogs/outreach/</guid>
+      <description>Description of STEMzone and new events coming soon.</description>
     </item>
     
     <item>
@@ -88,7 +84,7 @@
     </item>
     
     <item>
-      <title>Disease dynamics &amp; Machine learning</title>
+      <title>Disease dynamics &amp; ML</title>
       <link>/blogs/sides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -98,7 +94,7 @@ Yellow fever in Brazil The spread of yellow fever into areas previously thought 
     </item>
     
     <item>
-      <title>Disease dynamics &amp; Machine learning</title>
+      <title>Disease dynamics &amp; ML</title>
       <link>/blogs/sides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
