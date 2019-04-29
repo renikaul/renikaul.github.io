@@ -35,7 +35,7 @@
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
       <guid>/blogs/launch/</guid>
-      <description>Content coming soon.</description>
+      <description>I&amp;rsquo;m in the process of writing a how to guide to bring STEMzone to your university. Please contact me, if you&amp;rsquo;re interested in starting this event at your school. I have plenty of lessons learned to share!</description>
     </item>
     
     <item>
@@ -44,7 +44,8 @@
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
       <guid>/blogs/teaching/</guid>
-      <description>Content coming soon.</description>
+      <description>Content coming soon.
+Other related projects Group effort to make Marcus Zokan&amp;rsquo;s amazing dataset more accessible while learning javascript. http://zooplankton.ecology.uga.edu/</description>
     </item>
     
     <item>
@@ -57,13 +58,14 @@
     </item>
     
     <item>
-      <title>Disease dynamics &amp; ML</title>
-      <link>/blogs/sides/</link>
+      <title>Predicting disease dynamics</title>
+      <link>/blogs/disease/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/blogs/sides/</guid>
-      <description>I have a wide range of scientific interests, and enjoy collaborating with my Drake lab mates. This has led to many projects that involve some combination of disease dynamics, machine learning, and modeling. Here are a few highlights.
-Yellow fever in Brazil The spread of yellow fever into areas previously thought of as low risk presented an ecologically interesting question- what’s changed about the disease dynamics in the region, and an important question for human health- can we predict it areas of high and low risk for the disease.</description>
+      <guid>/blogs/disease/</guid>
+      <description>I have a wide range of scientific interests, and enjoy collaborating with my Drake labmates. This has led to many projects that involve some combination of disease dynamics, machine learning, and modeling. Here are a few highlights.
+Yellow fever in Brazil Explore the project&amp;rsquo;s [workflow on github].
+The spread of yellow fever into areas previously thought of as low risk presented an ecologically interesting question- what’s changed about the disease dynamics in the region, and an important question for human health- can we predict areas of high risk for the disease.</description>
     </item>
     
   </channel>
