@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RajReni Kaul</title>
+    <title>Categories on RajReni Kaul</title>
     <link>https://renikaul.github.io/categories/</link>
-    <description>Recent content on RajReni Kaul</description>
+    <description>Recent content in Categories on RajReni Kaul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
@@ -12,12 +12,25 @@
     
     
     <item>
-      <title>Widening the Tent</title>
-      <link>https://renikaul.github.io/blogs/outreach/</link>
+      <title></title>
+      <link>https://renikaul.github.io/categories/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>https://renikaul.github.io/blogs/outreach/</guid>
-      <description>On April 22, 2017 I headed out to the Athens March for Science, while UGA Dawgs headed to Stanford stadium for the annual spring scrimmage football game. I saw this as a missed opportunity to bring together these two UGA-loving groups. This inspired me to launch STEMzone, an outreach organization that facilitates UGA STEM researchers communication with the broader Athens/UGA community during football tailgating (Read more about my inspiration and the first event).</description>
+      <guid>https://renikaul.github.io/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://renikaul.github.io/categories/r/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://renikaul.github.io/categories/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss> researchers communication with the broader Athens/UGA community during football tailgating (Read more about my inspiration and the first event).</description>
     </item>
     
     <item>
