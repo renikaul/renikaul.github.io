@@ -1,0 +1,44 @@
+---
+categories:
+- ""
+- ""
+date: "2017-10-31T22:26:09-05:00"
+description: about me
+draft: no
+#image: teaching_WC.jpg
+keywords: ""
+slug: aboutme
+title: About Me
+---
+
+
+
+# Hi! 
+
+My name is RajReni, but most people call me Reni (Jenny with an "R"). I was named after my Kashmiri grandmother who lived on the shores of Dal Lake. I share an affinity for freshwater with my namesake. Growing up in metro Detroit, a lake day was never far away. I spent my childhood summers on the family boat with my dad, or near Lake Ontario with my Canadian family. 
+
+<figure>
+  <img src='/blogs/aboutme_files/algaltow.JPG'>
+  <figcaption> My first algal tow! 
+  </figcaption>
+</figure>
+
+
+My entry into research was an algal tow of the coast of Antarctica which led to a lab tech position at a limnology lab at Michigan State University. Under Dr. Sarnelle's mentorship, I was able to merge my interest in human health and freshwater by studying harmful algal blooms. 
+
+After finishing my undergraduate degree, I moved out to SF to work in antibody manufacturing for a biotech start up. One of the highlights of my life was meeting cancer patients enrolled in our trials that were living years past their original prognosis. Unfortunately, the start up didn't make it pass FDA Phase III trials - due to poor experimental design! 
+
+With the start up defunct, I returned to harmful algal blooms but this time in the southeast US. My master's research was also my first taste of machine learning, and computational science.
+
+Wanting to learn more about computational ecology, I joined the Drake lab at the University of Georgia. I was hired to explore high risk ideas, and develop microbial systems that could be used to experimentally demonstrate population ecology theory. I got paid to tinker! 
+
+After a few years, I transitioned to a PhD in the same lab. I continued to tinker- building out 3 more experimental systems and programmable growth chambers. The details of my research is listed under [Road to Extinction](https://renikaul.github.io/blogs/dissertation)
+
+
+<figure>
+  <img src='/blogs/aboutme_files/Cray.JPG'>
+  <figcaption> My dog, Cray, and I above Emerald bay, Lake Tahoe </figcaption>
+</figure>
+
+
+I've always had some creative outlets. Recently, I've been exploring watercolors. I really enjoy watching the pigments bloom and figuring out how to use a water brush so I can take my pigments on the go! I'm also working on building a giant bioluminescent butterfly with a cousin for Oakland's Garden at Lake Merritt Autum Lights Festival. 
