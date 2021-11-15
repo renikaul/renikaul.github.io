@@ -19,9 +19,9 @@ My name is RajReni, but most people call me Reni (Jenny with an "R"). I was name
 
 <figure>
   <img src='/blogs/aboutme_files/algaltow.JPG'>
-  <figcaption> My first algal tow! 
-  </figcaption>
+  <figcaption> My first algal tow! </figcaption>
 </figure>
+
 
 
 My entry into research was an algal tow of the coast of Antarctica which led to a lab tech position at a limnology lab at Michigan State University. Under Dr. Sarnelle's mentorship, I was able to merge my interest in human health and freshwater by studying harmful algal blooms. 
